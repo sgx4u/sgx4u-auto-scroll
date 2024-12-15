@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "ES2017",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"declaration": true,
+		"rootDir": "src",
+		"outDir": "dist",
+		"noEmit": true,
+		"isolatedModules": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"noImplicitAny": true,
+		"strictNullChecks": true
+	},
+	"include": ["src"],
+	"exclude": ["node_modules"]
+}

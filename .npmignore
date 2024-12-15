@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+
+# Source
+/src
+
+# Git
+/.gitignore
+/.github
+
+# NPM
+/.npmignore
+/.npmrc
+
+# Prettier
+/.prettierrc
+
+# Typescript
+/tsconfig.json
+/tsup.config.ts
+
+# Other files
+/jest.config.js
+/pnpm-lock.yaml
+/README.md
